@@ -1,0 +1,4 @@
+LOGNAME=daniil
+HOME=/home/daniil
+USER=daniil
+OLDPWD=/home/daniil
